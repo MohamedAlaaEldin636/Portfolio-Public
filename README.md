@@ -9,9 +9,11 @@ the code on GitHub Pages to display my own Portfolio as a website Inshallah.
 
 ## Website
 
-- You can visit the website hosted on GitHub Actions [here 🡵 👉🌐](https://TODO) Inshallah.
+- You can visit the website hosted on GitHub Actions 
+[here 🡵 👉🌐](https://mohamedalaaeldin636.github.io/Portfolio-Public/) Inshallah.
 
 ## Code
 
-- The code to create [the website](https://TODO) is in a private repo, to access it you can
+- The code to create [the website](https://mohamedalaaeldin636.github.io/Portfolio-Public/) 
+is in a private repo, to access it you can 
 [check it here](https://TODO-BUT-THIS-IS-DIFFERENT) Inshallah.
