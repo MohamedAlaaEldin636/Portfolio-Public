@@ -60,5 +60,5 @@ html, body {
 }
 
 .version-text::after {
-	content: "1.3.4";
+	content: "1.3.5";
 }
