@@ -20,9 +20,23 @@ html, body {
 /* This handles the text styling and the 24px top spacing */
 .loading-text {
     margin-top: 24px; /* Equivalent to Spacer(modifier = Modifier.height(24.dp)) */
+    margin-left: 16px;
+    margin-right: 16px;
     font-family: sans-serif; /* Clean font face */
     color: #333333; /* Dark gray to match your spinner stroke color */
     font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.secondary-text {
+    margin-top: 16px; /* Equivalent to Spacer(modifier = Modifier.height(24.dp)) */
+    margin-left: 16px;
+    margin-right: 16px;
+    font-family: sans-serif; /* Clean font face */
+    color: #6c6e7e;
+    font-size: 14px;
     font-weight: 500;
     text-align: center;
     line-height: 1.5;
@@ -43,4 +57,8 @@ html, body {
     50%  { content: '..'; }
     75%  { content: '...'; }
     100% { content: ''; }
+}
+
+.version-text::after {
+	content: "1.3.3";
 }
